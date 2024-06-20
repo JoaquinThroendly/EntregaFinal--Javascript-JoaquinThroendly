@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Box Engasse",
+        "price": "$15.000",
+        "imageSrc": "img/skate1.webp",
+        "quantity": 0
+        
+    },
+    {
+        "title": "English Horse",
+        "price": "$25.000",
+        "imageSrc": "img/skate2.webp",
+        "quantity": 0
+        
+    },
+    {
+        "title": "Knock Nap",
+        "price": "$35.000",
+        "imageSrc": "img/skate3.webp",
+        "quantity": 0
+        
+    },
+    {
+        "title": "La Night",
+        "price": "$18.000",
+        "imageSrc": "img/skate4.webp",
+        "quantity": 0
+        
+    },
+    {
+        "title": "Silver All",
+        "price": "$32.000",
+        "imageSrc": "img/skate5.webp",
+        "quantity": 0
+        
+    },
+    {
+        "title": "Skin Glam",
+        "price": "$18.000",
+        "imageSrc": "img/skate6.webp",
+        "quantity": 0
+        
+    },
+    {
+        "title": "Midimix",
+        "price": "$54.000",
+        "imageSrc": "img/skate7.webp",
+        "quantity": 0
+        
+    },
+    {
+        "title": "Sir Blue",
+        "price": "$32.000",
+        "imageSrc": "img/skate8.webp",
+        "quantity": 0
+        
+    }
+]

@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  font-size: 16px;
+  background-image: url("../fondo/sport-1284275_1280.webp");
+  background-size: cover;
+  background-repeat: no-repeat;
+  overflow-x: hidden;
+}
+
+.nav-link {
+  font-weight: 600;
+}
+
+.card:hover {
+  opacity: 0.7;
+}
+
+.card-text {
+  text-align: justify;
+}
+
+.card-body {
+  background-color: black;
+}
+
+.card-title {
+  color: white;
+}
+
+#txtComment {
+  resize: none;
+}
+
+@media (max-width: 576px) {
+  .card-text {
+    font-size: 0.8rem;
+  }
+}
+.text-justify {
+  text-align: justify;
+  color: white;
+  text-shadow: 3px 3px 0px black;
+}
+
+.text-justify-dos {
+  text-align: justify;
+  color: #029c88;
+  text-shadow: 3px 3px 0px black;
+  background-color: black;
+  text-size-adjust: 200px;
+}
+
+.Skateshop {
+  color: #00c2a8;
+}
+
+.titulo {
+  color: #029c88;
+  text-shadow: 3px 3px 0px black;
+}
+
+.info {
+  background-color: #00c2a8;
+  border-color: black;
+  color: black;
+}
+
+.footer {
+  background-color: black;
+  justify-content: baseline;
+  margin-top: auto;
+}
+
+.video {
+  width: 500px;
+  height: 300px;
+}
+
+/*# sourceMappingURL=style.css.map */

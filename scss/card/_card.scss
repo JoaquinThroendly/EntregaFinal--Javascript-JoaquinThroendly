@@ -1,0 +1,22 @@
+.card:hover {
+    opacity: 0.7;
+}
+
+.card-text {
+    text-align: justify;
+}
+.card-body{
+    background-color: black;
+}
+.card-title{
+    color: white;
+}
+#txtComment {
+    resize: none;
+}
+
+@media (max-width: 576px) {
+    .card-text {
+        font-size: 0.8rem;
+    }
+}
